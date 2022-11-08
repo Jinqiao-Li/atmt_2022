@@ -15,7 +15,7 @@ segmentation or a data augmentation method.
 
 
 ## Lexical Model
-This folder contains the checkpoints(best and last) of lexical model. The file translations.p.txt is the translated English of test set by using the lexical modle.
+This folder contains the checkpoints(best and last) of lexical model. The file translations.p.txt is the translated English of test set by using the lexical modle. Added some code in the decoder part of file seq2seq/models/lstm.py.
 
 BLEU score: 
 { 
